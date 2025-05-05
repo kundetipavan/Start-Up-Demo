@@ -2,7 +2,7 @@ import React from 'react';
  
 const Form = () => {
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100" id='FORM' style ={{ display:'none';}}> 
+    <div className="min-h-screen flex items-center justify-center bg-gray-100" id='FORM' style ={{ display:'none'}}> 
       <div id="form-container" className="bg-white p-8 rounded-lg shadow-lg max-w-2xl w-full">
         <div id="registrationSuccess" className="success-message mb-6 text-center hidden">
           <h2 className="text-2xl font-bold text-green-600">Registration Successful!</h2>
